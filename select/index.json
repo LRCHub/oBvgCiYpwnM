@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "My Princess",
+  "base_artist": "ROIROM",
+  "createdAt": "2025-12-25T00:54:35.792573Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Princess Is in Another Castle",
+      "artist": "Super 8 Bit Brothers",
+      "has_synced": false,
+      "path": "select/01_My_Princess_Is_in_Another_Castle_Super_8_Bit_Brothers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Night My Princess",
+      "artist": "CHUNG HA",
+      "has_synced": true,
+      "path": "select/02_Good_Night_My_Princess_CHUNG_HA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be My Princess",
+      "artist": "Sáez",
+      "has_synced": false,
+      "path": "select/03_Be_My_Princess_Sáez.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sleep My Princess",
+      "artist": "Olivia Newton-John",
+      "has_synced": true,
+      "path": "select/04_Sleep_My_Princess_Olivia_Newton-John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be My Princess (Album Version)",
+      "artist": "Saez",
+      "has_synced": false,
+      "path": "select/05_Be_My_Princess_(Album_Version)_Saez.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sleep My Princess",
+      "artist": "Olivia Newton‐John",
+      "has_synced": true,
+      "path": "select/06_Sleep_My_Princess_Olivia_Newton‐John.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be My Princess",
+      "artist": "Damien Saez",
+      "has_synced": false,
+      "path": "select/07_Be_My_Princess_Damien_Saez.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Princess Gone",
+      "artist": "Jah Mason",
+      "has_synced": true,
+      "path": "select/08_My_Princess_Gone_Jah_Mason.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Princess",
+      "artist": "Fidel Nadal",
+      "has_synced": true,
+      "path": "select/09_My_Princess_Fidel_Nadal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Princess",
+      "artist": "Lexer",
+      "has_synced": false,
+      "path": "select/10_My_Princess_Lexer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Princess Gone",
+      "artist": "Jah Mason",
+      "has_synced": false,
+      "path": "select/11_My_Princess_Gone_Jah_Mason.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Princess (Ost. My Sassy Princess เจ้าหญิง 2022)",
+      "artist": "TRINITY",
+      "has_synced": true,
+      "path": "select/12_My_Princess_(Ost._My_Sassy_Princess_เจ้าหญิง_2022)_TRINITY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "my princess peach",
+      "artist": "patent pending",
+      "has_synced": true,
+      "path": "select/13_my_princess_peach_patent_pending.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Be My Princess",
+      "artist": "Saez",
+      "has_synced": false,
+      "path": "select/14_Be_My_Princess_Saez.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DEAR MY PRINCESS",
+      "artist": "ROMEO",
+      "has_synced": false,
+      "path": "select/15_DEAR_MY_PRINCESS_ROMEO.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Prince & My Princess (Youth Generation OST)",
+      "artist": "Jin Won,Clara",
+      "has_synced": false,
+      "path": "select/16_My_Prince_&_My_Princess_(Youth_Generation_OST)_Jin_Won,Clara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Princess",
+      "artist": "ROIROM",
+      "has_synced": false,
+      "path": "select/pl_01_My_Princess_ROIROM.txt"
+    }
+  ]
+}
