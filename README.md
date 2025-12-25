@@ -1,0 +1,84 @@
+# ROIROM – My Princess
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Rejoice
+抱きしめたい日々
+紡ぐ言葉
+綴った願いと愛
+今 贈る For you
+Come in Come in 近づけば
+We can see 瞳の中から
+広がる光の海
+二人だけが煌めく世界
+隣で笑う声聞きたくて
+優しく
+包み込む
+星の瞬き
+温もり感じて
+君と出会い
+すべてが Began
+Gimme that bright light
+We're gonna We're gonna rise high
+街の灯りが顔を映した
+冷えた手重ね合わせて
+来てよ My princess
+この愛は Endless
+聖なる夜に今
+雪も溶けだす
+魔法の時間
+Holy Night
+肩を寄せたまま
+Here we stay
+君が全部くれた奇跡
+Shining bright
+Rejoice
+抱きしめたい日々
+紡ぐ言葉
+綴った願いと愛
+今 贈る For you
+Got it Got it
+ずっと変わらず
+We can feel
+白い息の中
+ひとつ舞っていく願い
+ふたつ並んだ影は So long
+Gimme that bright light
+We're gonna We're gonna rise high
+指が触れたら
+動きだす空
+キャンドルが頬を染めてく
+来てよ My princess
+聖なる夜に今
+雪も溶けだす
+魔法の時間
+Holy Night
+肩を寄せたまま
+Here we stay
+君が全部くれた奇跡
+Shining bright
+今日という日を
+君といられること Yeah
+それだけでよかった
+想いを込めよう
+響く声
+何度も交わした笑顔も
+Oh, I love you so much
+I'll spread it though the world
+Get it ready, feel the beat of grace
+聖なる夜に今
+雪も溶けだす
+魔法の時間
+Holy Night
+肩を寄せたまま
+Here we stay
+君が全部くれた奇跡
+君が全部くれた奇跡
+Shining bright
+Rejoice
+抱きしめたい日々
+紡ぐ言葉
+綴った願いと愛
+今 贈る For you
+```
